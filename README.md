@@ -14,7 +14,9 @@ To refactor the VBA code so it can run faster than my pervious code.
 ### Results
 
 -  I was able to refactor the code to run the 2017 sheet at 0.1796875 seconds, which is 0.5156250 seconds faster than the previous version, and I was able to make 2018 sheet run time to the same 0.1796875 seconds, which is 0.609375 seconds faster. 
-https://raw.githubusercontent.com/yumik20/stock-analysis/main/Resources/VBA_Challenge_2017.png
+
+
+<img src=“https://raw.githubusercontent.com/yumik20/stock-analysis/main/Resources/VBA_Challenge_2017.png”>
 https://github.com/yumik20/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png
 I did notice that even for the same script, sometimes the code runs faster, sometimes it runs slower, but overall the refactored script are faster than before.
 
